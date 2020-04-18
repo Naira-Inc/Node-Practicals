@@ -1,0 +1,11 @@
+let name='anchaal'
+let no1=20
+let no2=30
+let sum=no1+no2
+console.log("a = "+no1)
+console.log("b = "+no2)
+console.log("sum = "+sum)
+let dif=no2-no1
+let prod=no1*no2
+console.log("diff = "+dif)
+console.log("product = "+prod)
